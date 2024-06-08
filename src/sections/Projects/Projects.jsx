@@ -1,6 +1,6 @@
 import styles from './ProjectsStyles.module.css';
 import weather from '../../assets/weather.png';
-import freshBurger from '../../assets/fresh-burger.png';
+import profpng from '../../assets/profpng.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
@@ -17,10 +17,10 @@ function Projects() {
           p="Weather App"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          src={profpng}
+          link="https://profile-landingpage.onrender.com"
+          h3="Profile"
+          p=" Profile Landingpage"
         />
         <ProjectCard
           src={hipsster}
