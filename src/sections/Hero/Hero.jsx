@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Bharath Kumar
         </h1>
-        <h2>FullStack Developer</h2>
+        <h2> Junior Software Engineer</h2>
         <span>
           <a href="https://x.com/PillindlaK22500" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
