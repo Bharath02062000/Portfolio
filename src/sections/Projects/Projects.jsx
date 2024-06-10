@@ -22,7 +22,7 @@ function Projects() {
           h3="Profile"
           p=" Profile Landingpage"
         />
-        <ProjectCard
+{/*         <ProjectCard
           src={hipsster}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Hipsster"
@@ -33,7 +33,7 @@ function Projects() {
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="FitLift"
           p="Fitness App"
-        />
+        /> */}
       </div>
     </section>
   );
