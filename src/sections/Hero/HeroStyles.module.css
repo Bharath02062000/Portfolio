@@ -86,10 +86,7 @@
     .hero {
       max-width: 350px;
       width: 350px;
-         .p{
-       align-items: center;
-       text-align: center;
-    }
+    
     }
   }
 }
