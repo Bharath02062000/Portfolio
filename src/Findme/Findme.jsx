@@ -11,8 +11,6 @@ import {
 } from "react-icons/fa";
 // import { Email, GitHub, LinkedIn,Phone } from "@mui/icons-material";
 // import TwitterIcon from "@mui/icons-material/Twitter";
-
-
 const Findme = () => {
   return (
     <section className="contact-section" id="contact">
