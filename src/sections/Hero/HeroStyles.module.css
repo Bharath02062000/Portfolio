@@ -87,6 +87,7 @@
     .hero {
       max-width: 350px;
       width: 350px;
+    
     }
  
   }
@@ -98,6 +99,7 @@
       max-width: 400px;
       width: 400px;
     }
+ 
   }
   
 }

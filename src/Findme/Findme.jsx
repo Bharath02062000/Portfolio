@@ -11,8 +11,6 @@ import {
 } from "react-icons/fa";
 // import { Email, GitHub, LinkedIn,Phone } from "@mui/icons-material";
 // import TwitterIcon from "@mui/icons-material/Twitter";
-
-
 const Findme = () => {
   return (
     <section className="contact-section" id="contact">
@@ -20,8 +18,7 @@ const Findme = () => {
         <div className='buttons'>
         
         <h2>Contact Me</h2>
-        <h4>If Any Oppurtunities or Suggestions. I am just a Click Away From You.</h4>
-        
+        <h4>If Any Oppurtunities or Suggestions. I am just a Click Away From You.</h4> 
         <div className="input-container">
             <a href="mailto:bharathkumarpillindla@gmail.com" target="_blank" rel="noopener noreferrer">
               {/* <p><i className="fas fa-envelope"></i></p> */}
@@ -31,7 +28,6 @@ const Findme = () => {
               <h1>Mail Me</h1>
             </a>
           </div>
-
           <div className="input-container">
             <a href="tel:+919381551540" target="_blank" rel="noopener noreferrer">
               
