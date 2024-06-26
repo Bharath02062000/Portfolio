@@ -35,6 +35,7 @@ function Contact() {
   return (
     <div className='contact'>
     <div className='contact-col'>
+      <div className='cont'><b>Contact-Us</b></div><br/>
       <h3>Send us a message <img src={msgicon} alt='' /></h3>
       <p>
           feel free to reach out through contact from or find our contact information below.

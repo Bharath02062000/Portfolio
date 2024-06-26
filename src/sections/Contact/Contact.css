@@ -12,6 +12,7 @@
   
 
 }
+ 
 .contact-col h3{
   color: #000000;
   font-weight: 500;
@@ -26,7 +27,11 @@
   margin-left: 10px;
 
 }
+button{
+  background-color: orange;
+ 
 
+}
 .contact-col p{
   max-width: 450px;
   list-style: 0.3;
