@@ -28,18 +28,8 @@ function Projects() {
           h3="Profile"
           p=" Profile Landingpage"
         />
-<<<<<<< HEAD
     
         {/* <ProjectCard
-=======
-{/*         <ProjectCard
-          src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
-        />
-        <ProjectCard
->>>>>>> 8b75f291af71c5b0523a1a7cf78fd7844432f227
           src={fitLift}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="FitLift"
