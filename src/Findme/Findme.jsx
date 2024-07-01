@@ -15,8 +15,7 @@ const Findme = () => {
   return (
     <section className="contact-section" id="contact">
       <div className="contact-content">
-        <div className='buttons'>
-        
+        <div className='buttons'> 
         <h2>Contact Me</h2>
         <h4>If Any Oppurtunities or Suggestions. I am just a Click Away From You.</h4> 
         <div className="input-container">
@@ -38,7 +37,6 @@ const Findme = () => {
               <h1>Call Me</h1>
             </a>
           </div>
-
           <div className="input-container">
             <a href="https://github.com/Bharath02062000" target="_blank" rel="noopener noreferrer">
               {/* <h1><i className="fab fa-github"></i></h1> */}
