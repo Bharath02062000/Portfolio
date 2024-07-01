@@ -46,7 +46,6 @@ const Findme = () => {
               <h1>Github</h1>
             </a>
           </div>
-
           <div className="input-container">
             <a href="https://www.linkedin.com/in/pillindla-bharath-kumar-4b4422240/" target="_blank" rel="noopener noreferrer">
               
