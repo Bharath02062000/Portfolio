@@ -29,7 +29,6 @@ const Findme = () => {
           </div>
           <div className="input-container">
             <a href="tel:+919381551540" target="_blank" rel="noopener noreferrer">
-              
               {/* <h1><i className="fas fa-phone"></i></h1> */}
               <h1>
                 <FaPhone />
