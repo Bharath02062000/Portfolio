@@ -57,7 +57,6 @@ const Findme = () => {
           </div>
           <div className="input-container">
             <a href="https://x.com/PillindlaK22500" target="_blank" rel="noopener noreferrer">
-              
               {/* <h1><i className="fab fa-twitter"></i></h1> */}
               <h1>
   
