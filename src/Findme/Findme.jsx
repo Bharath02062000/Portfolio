@@ -64,8 +64,6 @@ const Findme = () => {
               <h1>Twitter</h1>
             </a>
           </div>
-
-
         </div>
       </div>
     </section>
