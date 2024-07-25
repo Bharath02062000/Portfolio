@@ -60,7 +60,6 @@ const Findme = () => {
               {/* <h1><i className="fab fa-twitter"></i></h1> */}
               <h1>
                 <FaTwitter />
-
               </h1>
               <h1>Twitter</h1>
             </a>
