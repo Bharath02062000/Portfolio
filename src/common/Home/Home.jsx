@@ -7,6 +7,7 @@ import Projects from '../../sections/Projects/Projects';
 import Skills from '../../sections/Skills/Skills';
 import findmeicon from '../../assets/findmeicon.png';
 import { useNavigate } from 'react-router-dom';
+import Experiance from '../../sections/Experiance/Experiance';
 
 function Home() {
  
@@ -19,6 +20,7 @@ function Home() {
   return (
     <>
       <Hero />
+      <Experiance/>
       <Projects />
       <Skills />
       <Contact />
