@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
       <ProjectCard
           src={vehk}
-          link="http://www.vehk.in/"
+          link="https://booking-services-2wom.onrender.com"
           h3="vehk.in"
           p="Vehk Website"
         />
