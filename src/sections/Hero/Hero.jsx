@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Bharath Kumar
         </h1>
-        <h2> FULL STACK DEVELOPER</h2>
+        <h2> MYSQL DEVELOPER</h2>
         <span>
           <a href="https://x.com/PillindlaK22500" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
@@ -53,8 +53,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React website and Mobiles apps Admin for commercial
-          businesses.
+          MySQL Developer with 2 years of experience in designing, optimizing, and managing relational
+           databases for modern web and mobile applications.
         </p>
         <a href={Bharath_CV} download>
           <button className="hover">Resume</button>

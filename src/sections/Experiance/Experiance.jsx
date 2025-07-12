@@ -9,11 +9,11 @@ import ProjectCard from '../../common/ProjectCard';
 function Experiance(){
     return (
       <section id="projects" className={styles.container}>
-        <h1 className="sectionTitle">Experiance</h1>
+        <h1 className="sectionTitle">EXPERIENCE</h1>
         <div className={styles.projectsContainer}>
         <ProjectCard
             src={vehk1}
-            link="https://drive.google.com/file/d/1C1JT5tuMoWPkD5y7gy7OETUB8GtImhQ5/view?usp=sharing"
+            link="https://drive.google.com/file/d/139EPlsRVvlVZS35Rmp2g5KerpRrjXigm/view?usp=drivesdk"
             h3="IDOTINFINITY pvt"
             p="junior software engneer"
           />
